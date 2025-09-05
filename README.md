@@ -1,11 +1,11 @@
 ## 🌟 HR Analytics Dashboard
 
-📌 Overview
+##📌 Overview
 
   The HR Analytics Dashboard is an interactive Power BI project designed to provide actionable insights into workforce management.
   It helps HR professionals and business leaders monitor employee trends, attrition, and demographics for data-driven decision-making.
   
-🎯 Objectives
+## 🎯 Objectives
 
   📊 Track employee headcount and workforce trends
   
@@ -17,7 +17,7 @@
   
   🎯 Support strategic HR decisions with insights
 
-🚀 Key Features
+## 🚀 Key Features
 
   ✅ Clean & interactive Power BI dashboard
   
@@ -29,13 +29,13 @@
   
   ✅ Professional design with custom background
 
-📂 Repository Structure
+## 📂 Repository Structure
   File	Description
   HR Analytics.pbix	Power BI dashboard file
   HR Data.xlsx	Employee dataset used for analysis
   Hr Report Background.jpg	Custom background image for dashboard
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
   Power BI Desktop – for dashboard creation
   
@@ -43,11 +43,11 @@
   
   Data Visualization & Analytics – insights & reporting
 
-📸 Dashboard Preview
+## 📸 Dashboard Preview
 
 ![HR Analytics Dashboard](power_bi_dashboard.png)
 
-📈 Use Cases
+## 📈 Use Cases
 
   👔 HR Teams → Monitor retention & attrition trends
   
@@ -56,7 +56,7 @@
   🧑‍💼 Talent Management → Identify risk areas & retention strategies
 
 
-⚡ Getting Started
+## ⚡ Getting Started
 
   Download or clone this repository
   
